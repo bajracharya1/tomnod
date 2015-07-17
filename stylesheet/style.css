@@ -1,0 +1,41 @@
+body{
+    margin-left: 120px;
+    margin-right: 120px;
+    box-shadow: 0 9px 0px 0px white, 0 -9px 0px 0px white, 12px 0 15px -4px rgba(0, 0, 0, 0.5), -12px 0 15px -4px rgba(0, 0, 0, 0.5);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100vh;
+}
+#logo{
+padding-left: 20px;
+    padding-top: 20px;
+}
+.header {
+background-color: beige;
+width: 100%;
+}
+
+.header h1 {
+margin-left: 30px;
+margin-top: -10px;
+    
+}
+
+.table{
+font-family: sans-serif,serif;
+color: dimgrey;
+padding-top: 50px;
+margin-left:50px;
+}
+
+tbody {
+
+font-style: italic;
+
+}
+
+#chartContainer {
+padding-top: 50px;
+
+}
+
